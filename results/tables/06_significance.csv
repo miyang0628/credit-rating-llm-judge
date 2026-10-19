@@ -1,0 +1,6 @@
+ptype,n,judge_P0,judge_var,judge_drop,judge_dz,p_judge,metricx5_P0,metricx5_var,metric_drop,p_metric,divergence,p_divergence,p_divergence_holm,sig_divergence
+P1_inconsistency,150,4.087,3.573,0.513,-0.678,0.0,4.698,4.637,0.06,0.0603,0.453,0.0,0.0,***
+P2_remove_qualitative,150,4.087,1.207,2.88,-2.682,0.0,4.698,4.924,-0.226,0.0003,3.106,0.0,0.0,***
+P3_factual_error,150,4.087,3.613,0.473,-0.806,0.0,4.698,3.61,1.087,0.0,-0.614,0.0,0.0,***
+P4_direction_flip,150,4.087,1.133,2.953,-2.844,0.0,4.698,3.284,1.414,0.0,1.54,0.0,0.0,***
+P5_verbosity,150,4.087,3.2,0.887,-1.284,0.0,4.698,3.763,0.934,0.0,-0.048,0.6771,0.6771,ns
