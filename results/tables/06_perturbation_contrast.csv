@@ -1,7 +1,0 @@
-ptype,qualitative_adequacy,ragas_faithfulness,ragas_faithfulness_x5
-P0_original,4.087,0.94,4.698
-P1_inconsistency,3.66,0.932,4.662
-P2_remove_qualitative,1.207,0.985,4.924
-P3_factual_error,3.613,0.722,3.61
-P4_direction_flip,1.133,0.657,3.284
-P5_verbosity,3.2,0.753,3.763
