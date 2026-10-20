@@ -1,0 +1,7 @@
+gen_condition,model_tag,valid_rate
+gap_blind,mid,1.0
+gap_blind,strong,1.0
+gap_blind,weak,0.78
+gap_given,mid,1.0
+gap_given,strong,1.0
+gap_given,weak,1.0

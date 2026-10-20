@@ -1,0 +1,9 @@
+gen_condition,judge_condition,ptype,P0,variant,judge_drop
+gap_blind,informed,P2_remove_qualitative,1.1,1.02,0.08
+gap_blind,informed,P4_direction_flip,1.1,1.027,0.073
+gap_blind,blind,P2_remove_qualitative,3.553,3.447,0.107
+gap_blind,blind,P4_direction_flip,3.553,2.5,1.053
+gap_given,informed,P2_remove_qualitative,4.133,1.233,2.9
+gap_given,informed,P4_direction_flip,4.133,1.153,2.98
+gap_given,blind,P2_remove_qualitative,1.0,2.46,-1.46
+gap_given,blind,P4_direction_flip,1.0,1.0,0.0

@@ -1,0 +1,2 @@
+n_anchors,scored,exact_pct,within1_pct,within2_pct,mae_notches
+40,40,0.125,0.125,0.225,5.45
